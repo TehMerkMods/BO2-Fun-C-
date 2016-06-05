@@ -1,0 +1,10 @@
+c:\users\merk\documents\visual studio 2015\Projects\BO2 TehMerkMods\BO2 TehMerkMods\bin\Debug\BO2 TehMerkMods.exe.config
+c:\users\merk\documents\visual studio 2015\Projects\BO2 TehMerkMods\BO2 TehMerkMods\bin\Debug\BO2 TehMerkMods.exe
+c:\users\merk\documents\visual studio 2015\Projects\BO2 TehMerkMods\BO2 TehMerkMods\bin\Debug\BO2 TehMerkMods.pdb
+c:\users\merk\documents\visual studio 2015\Projects\BO2 TehMerkMods\BO2 TehMerkMods\bin\Debug\theme.dll
+c:\users\merk\documents\visual studio 2015\Projects\BO2 TehMerkMods\BO2 TehMerkMods\obj\Debug\BO2 TehMerkMods.csprojResolveAssemblyReference.cache
+c:\users\merk\documents\visual studio 2015\Projects\BO2 TehMerkMods\BO2 TehMerkMods\obj\Debug\BO2_TehMerkMods.Form1.resources
+c:\users\merk\documents\visual studio 2015\Projects\BO2 TehMerkMods\BO2 TehMerkMods\obj\Debug\BO2_TehMerkMods.Properties.Resources.resources
+c:\users\merk\documents\visual studio 2015\Projects\BO2 TehMerkMods\BO2 TehMerkMods\obj\Debug\BO2 TehMerkMods.csproj.GenerateResource.Cache
+c:\users\merk\documents\visual studio 2015\Projects\BO2 TehMerkMods\BO2 TehMerkMods\obj\Debug\BO2 TehMerkMods.exe
+c:\users\merk\documents\visual studio 2015\Projects\BO2 TehMerkMods\BO2 TehMerkMods\obj\Debug\BO2 TehMerkMods.pdb
